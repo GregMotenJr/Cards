@@ -1,0 +1,15 @@
+M:\Git\InstructorMaterial\CardsTest\Cards\Cards\bin\Debug\Cards.exe.config
+M:\Git\InstructorMaterial\CardsTest\Cards\Cards\bin\Debug\Cards.exe
+M:\Git\InstructorMaterial\CardsTest\Cards\Cards\bin\Debug\Cards.pdb
+M:\Git\InstructorMaterial\CardsTest\Cards\Cards\obj\Debug\Cards.csprojResolveAssemblyReference.cache
+M:\Git\InstructorMaterial\CardsTest\Cards\Cards\obj\Debug\Cards.exe
+M:\Git\InstructorMaterial\CardsTest\Cards\Cards\obj\Debug\Cards.pdb
+C:\Users\gmoten\Documents\Visual Studio 2015\Projects\Cards (002)\Cards\Cards\bin\Debug\Cards.exe.config
+C:\Users\gmoten\Documents\Visual Studio 2015\Projects\Cards (002)\Cards\Cards\obj\Debug\Cards.exe
+C:\Users\gmoten\Documents\Visual Studio 2015\Projects\Cards (002)\Cards\Cards\obj\Debug\Cards.pdb
+C:\Users\gmoten\Documents\Visual Studio 2015\Projects\Cards (002)\Cards\Cards\bin\Debug\Cards.exe
+C:\Users\gmoten\Documents\Visual Studio 2015\Projects\Cards (002)\Cards\Cards\bin\Debug\Cards.pdb
+C:\Users\gmoten\Documents\Visual Studio 2015\Projects\Cards (002)\Cards\Cards\obj\Debug\Cards.csprojResolveAssemblyReference.cache
+C:\Users\gmoten\Documents\Visual Studio 2015\Projects\Cards (002)\Cards\bin\Debug\Cards.exe.config
+C:\Users\gmoten\Documents\Visual Studio 2015\Projects\Cards (002)\Cards\obj\Debug\Cards.exe
+C:\Users\gmoten\Documents\Visual Studio 2015\Projects\Cards (002)\Cards\obj\Debug\Cards.pdb
